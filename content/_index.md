@@ -1,27 +1,21 @@
 ---
-title: 🪴 Quartz 3.3
+title: AboutTheGarden
 enableToc: false
+date: 2023-07-12
+#lastmod: 2023-05-18 12:02:56
+tags:
+- 数字花园
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hello 👋，我是王虎。一个终身学习者，爱好读书、时间记录、做笔记，以及一切感兴趣的新东西。
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+这里是我的数字花园，希望能做到全量发布我不涉隐私的笔记。
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+目前因为尚未建立起熟练的发布流程，以及一些笔记尚在整合之中，所以还不能做到上面说的「全量发布」，不过我正在努力。💪
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+在花园建设的初期，我会尝试先将读书笔记和不涉隐私的 Diary 进行发布，具体的 MOC 如何建立，我还需要斟酌一下。
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+你还可以在这些地方找到我：
+- **公众号**：社工王虎（wanghuswer）
+- **Blog**：https://wanghusw.github.io
+- **Notes**：https://wanghusw.github.io/note
